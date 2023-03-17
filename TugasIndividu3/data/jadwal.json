@@ -1,0 +1,72 @@
+[
+    {
+        "jadwal_id": 1,
+        "bandara_kode_keberangkatan": "CGK",
+        "bandara_kode_tujuan": "TKG",
+        "maskapai_id": 1,
+        "jadwal_tanggal": "2023-03-18"
+    },
+    {
+        "jadwal_id": 11,
+        "bandara_kode_keberangkatan": "CGK",
+        "bandara_kode_tujuan": "TKG",
+        "maskapai_id": 3,
+        "jadwal_tanggal": "2023-03-18"
+    },
+    {
+        "jadwal_id": 12,
+        "bandara_kode_keberangkatan": "CGK",
+        "bandara_kode_tujuan": "TKG",
+        "maskapai_id": 4,
+        "jadwal_tanggal": "2023-03-18"
+    },
+    {
+        "jadwal_id": 2,
+        "bandara_kode_keberangkatan": "BPN",
+        "bandara_kode_tujuan": "WET",
+        "maskapai_id": 2,
+        "jadwal_tanggal": "2023-03-18"
+    },
+    {
+        "jadwal_id": 3,
+        "bandara_kode_keberangkatan": "TKG",
+        "bandara_kode_tujuan": "KDI",
+        "maskapai_id": 4,
+        "jadwal_tanggal": "2023-03-19"
+    },
+    {
+        "jadwal_id": 4,
+        "bandara_kode_keberangkatan": "BPN",
+        "bandara_kode_tujuan": "CGK",
+        "maskapai_id": 1,
+        "jadwal_tanggal": "2023-03-19"
+    },
+    {
+        "jadwal_id": 5,
+        "bandara_kode_keberangkatan": "TKG",
+        "bandara_kode_tujuan": "CGK",
+        "maskapai_id": 3,
+        "jadwal_tanggal": "2023-03-20"
+    },
+    {
+        "jadwal_id": 6,
+        "bandara_kode_keberangkatan": "WET",
+        "bandara_kode_tujuan": "BPN",
+        "maskapai_id": 4,
+        "jadwal_tanggal": "2023-03-20"
+    },
+    {
+        "jadwal_id": 7,
+        "bandara_kode_keberangkatan": "KDI",
+        "bandara_kode_tujuan": "CGK",
+        "maskapai_id": 1,
+        "jadwal_tanggal": "2023-03-20"
+    },
+    {
+        "jadwal_id": 8,
+        "bandara_kode_keberangkatan": "KDI",
+        "bandara_kode_tujuan": "CGK",
+        "maskapai_id": 2,
+        "jadwal_tanggal": "2023-03-21"
+    }
+]
