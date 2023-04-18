@@ -1,0 +1,22 @@
+[
+    {
+        "maskapai_id": 1,
+        "maskapai_nama": "Garuda Indonesia",
+        "maskapai_logo": "./assets/logo/garudaIndonesa.png"
+    },
+    {
+        "maskapai_id": 2,
+        "maskapai_nama": "Air Asia",
+        "maskapai_logo": "./assets/logo/AirAsia.png"
+    },
+    {
+        "maskapai_id": 3,
+        "maskapai_nama": "Sriwijaya Air",
+        "maskapai_logo": "./assets/logo/sriwijayaAir.png"
+    },
+    {
+        "maskapai_id": 4,
+        "maskapai_nama": "Lion Air",
+        "maskapai_logo": "./assets/logo/lionAir.png"
+    }
+]
