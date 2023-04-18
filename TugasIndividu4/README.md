@@ -8,26 +8,22 @@ Kelas : RA
 
 <img src=https://github.com/PanduWiratama/PAM-22-23/blob/main/TugasIndividu4/ss/ss2.jpg width=25% height=25%> <img src=https://github.com/PanduWiratama/PAM-22-23/blob/main/TugasIndividu4/ss/ss1.jpg width=25% height=25%> <img src=https://github.com/PanduWiratama/PAM-22-23/blob/main/TugasIndividu4/ss/ss3.jpg width=25% height=25%>
 
-## Cara Menjalankan dengan Expo Go
-Aplikasi Jamma bisa dicoba dengan scan barcode dibawah ini dengan menggunakan aplikasi Expo Go.
+## Test Unit Jest
+Jalankan perintah di bawah ini di terminal proyek untuk test unit jest.
 
-<img src=https://github.com/PanduWiratama/UTS-PAM-120140170/blob/master/assets/Barcode.jpeg width=25% height=25%>
+<img src=https://github.com/PanduWiratama/PAM-22-23/blob/main/TugasIndividu4/ss/ss4.png width=25% height=25%> <img src=hhttps://github.com/PanduWiratama/PAM-22-23/blob/main/TugasIndividu4/ss/ss5.png width=25% height=25%>
 
 ## Instalasi
-Clone repository dan install prasayaratnya.
+Jalankan perintah di bawah ini di terminal proyek untuk membangun apk Android.
 ```
-git clone https://github.com/PanduWiratama/UTS-PAM-120140170.git
-cd UTS-PAM-120140170
 npm install
 ```
 ## Cara Menjalankan
 ```
 npm start
 ```
-Dan kemudian scan QR code dengan aplikasi Expo.
-Atau bisa menggunakan android emulator.
 ## Build
-Jika ingin build aplikasi Jamma, bisa menggunakan Expo CLI dan eas-cli.
+Jika ingin build aplikasi Hiling, bisa menggunakan Expo CLI dan eas-cli.
 ```
 npm install -g expo-cli
 npm install -g eas-cli
