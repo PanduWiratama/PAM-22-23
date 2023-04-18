@@ -10,8 +10,11 @@ Kelas : RA
 
 ## Test Unit Jest
 Jalankan perintah di bawah ini di terminal proyek untuk test unit jest.
+```
+npm run test
+```
 
-<img src=https://github.com/PanduWiratama/PAM-22-23/blob/main/TugasIndividu4/ss/ss4.png width=25% height=25%> <img src=hhttps://github.com/PanduWiratama/PAM-22-23/blob/main/TugasIndividu4/ss/ss5.png width=25% height=25%>
+<img src=https://github.com/PanduWiratama/PAM-22-23/blob/main/TugasIndividu4/ss/ss4.png width=40% height=40%> <img src=https://github.com/PanduWiratama/PAM-22-23/blob/main/TugasIndividu4/ss/ss5.png width=40% height=40%>
 
 ## Instalasi
 Jalankan perintah di bawah ini di terminal proyek untuk membangun apk Android.
